@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Polytesse</string>
+    <string name="header_label">Qui est le plus vulgaire ?</string>
+    <string name="origin">Numéro</string>
+    <string name="count">Nombre de gros mots</string>
+    <string name="slang_words_reception_toast">%1$s t\'as envoyé %2$d gros mot(s) !!!</string>
+    <string name="list_reset_toast">Liste réinitialisée</string>
+    <string name="list_reset_icon">Réinitialiser la liste</string>
+    <string-array name="slang_words">
+        <item>baiser</item>
+        <item>batard</item>
+        <item>bite</item>
+        <item>bitte</item>
+        <item>bordel</item>
+        <item>brackmard</item>
+        <item>branlage</item>
+        <item>branler</item>
+        <item>branlette</item>
+        <item>branleur</item>
+        <item>branleuse</item>
+        <item>caca</item>
+        <item>chatte</item>
+        <item>chiasse</item>
+        <item>chier</item>
+        <item>chiotte</item>
+        <item>chiottes</item>
+        <item>clito</item>
+        <item>clitoris</item>
+        <item>con</item>
+        <item>connard</item>
+        <item>connasse</item>
+        <item>conne</item>
+        <item>couilles</item>
+        <item>cramouille</item>
+        <item>cul</item>
+        <item>emmerdant</item>
+        <item>emmerder</item>
+        <item>emmerdeur</item>
+        <item>emmerdeuse</item>
+        <item>enculé</item>
+        <item>enculée</item>
+        <item>enculer</item>
+        <item>enculeur</item>
+        <item>enculeurs</item>
+        <item>enfoiré</item>
+        <item>enfoirée</item>
+        <item>foutre</item>
+        <item>fdp</item>
+        <item>gerbe</item>
+        <item>gerber</item>
+        <item>gouine</item>
+        <item>grogniasse</item>
+        <item>gueule</item>
+        <item>jouir</item>
+        <item>merde</item>
+        <item>merdeuse</item>
+        <item>merdeux</item>
+        <item>nègre</item>
+        <item>negro</item>
+        <item>nique</item>
+        <item>nik</item>
+        <item>niques</item>
+        <item>ntm</item>
+        <item>pédale</item>
+        <item>pédé</item>
+        <item>pétasse</item>
+        <item>pd</item>
+        <item>pisser</item>
+        <item>pouffiasse</item>
+        <item>ptn</item>
+        <item>putain</item>
+        <item>pute</item>
+        <item>salaud</item>
+        <item>salop</item>
+        <item>salopard</item>
+        <item>salope</item>
+        <item>suce</item>
+        <item>tapette</item>
+        <item>tanche</item>
+        <item>teuch</item>
+        <item>tg</item>
+        <item>tringler</item>
+        <item>trique</item>
+        <item>turlute</item>
+        <item>zigounette</item>
+        <item>zizi</item>
+    </string-array>
+</resources>
