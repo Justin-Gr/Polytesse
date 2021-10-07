@@ -27,7 +27,7 @@ public class SlangWordsCounterService extends Service {
 
         List<String> words = asList(
                 SMSMessage.toLowerCase(Locale.ROOT)
-                .replaceAll("[!?,.]", "")
+                .replaceAll("[!?,.():;]", "")
                 .split("\\s+")
         );
 
@@ -48,7 +48,7 @@ public class SlangWordsCounterService extends Service {
             sendBroadcast(refreshIntent);
         }
 
-        return Service.START_STICKY;
+        return Service.START_NOT_STICKY;
     }
 
     @Nullable

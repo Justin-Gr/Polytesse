@@ -7,6 +7,7 @@
     <string name="list_reset_toast">Liste réinitialisée</string>
     <string name="list_reset_icon">Réinitialiser la liste</string>
     <string-array name="slang_words">
+        <item>baise</item>
         <item>baiser</item>
         <item>batard</item>
         <item>bite</item>
@@ -14,6 +15,7 @@
         <item>bordel</item>
         <item>brackmard</item>
         <item>branlage</item>
+        <item>branle</item>
         <item>branler</item>
         <item>branlette</item>
         <item>branleur</item>
@@ -21,19 +23,24 @@
         <item>caca</item>
         <item>chatte</item>
         <item>chiasse</item>
+        <item>chié</item>
         <item>chier</item>
         <item>chiotte</item>
         <item>chiottes</item>
+        <item>chnek</item>
         <item>clito</item>
-        <item>clitoris</item>
         <item>con</item>
         <item>connard</item>
         <item>connasse</item>
         <item>conne</item>
+        <item>connerie</item>
+        <item>conneries</item>
+        <item>couille</item>
         <item>couilles</item>
-        <item>cramouille</item>
         <item>cul</item>
         <item>emmerdant</item>
+        <item>emmerde</item>
+        <item>emmerdes</item>
         <item>emmerder</item>
         <item>emmerdeur</item>
         <item>emmerdeuse</item>
@@ -51,7 +58,8 @@
         <item>gouine</item>
         <item>grogniasse</item>
         <item>gueule</item>
-        <item>jouir</item>
+        <item>gueuler</item>
+        <item>gueules</item>
         <item>merde</item>
         <item>merdeuse</item>
         <item>merdeux</item>
@@ -70,19 +78,26 @@
         <item>ptn</item>
         <item>putain</item>
         <item>pute</item>
+        <item>putte</item>
+        <item>putin</item>
         <item>salaud</item>
         <item>salop</item>
+        <item>salo</item>
         <item>salopard</item>
         <item>salope</item>
-        <item>suce</item>
+        <item>saloperie</item>
+        <item>schnek</item>
+        <item>shnek</item>
         <item>tapette</item>
         <item>tanche</item>
         <item>teuch</item>
+        <item>testiboule</item>
+        <item>testiboules</item>
+        <item>testicouille</item>
+        <item>testicouilles</item>
         <item>tg</item>
         <item>tringler</item>
         <item>trique</item>
         <item>turlute</item>
-        <item>zigounette</item>
-        <item>zizi</item>
     </string-array>
 </resources>
